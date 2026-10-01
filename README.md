@@ -6,9 +6,9 @@ I enjoy building practical software, working with data, and exploring how system
 
 ## What I Work With
 
-- **Programming:** Python, Rust
+- **Programming:** Python, HTML,CSS&JS
 - **Data & Analysis:** Pandas, NumPy, data preprocessing, exploratory data analysis, time-series data
-- **Application Development:** PyQt6, Flask, REST APIs
+- **Application Development:** PyQt6, Flask,FastAPI REST APIs
 - **Software Engineering:** Git, GitHub, multiprocessing, asynchronous programming, API integration
 
 ## Featured Projects
