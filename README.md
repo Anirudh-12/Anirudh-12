@@ -1,74 +1,60 @@
 # Hi, I'm Anirudh Reddy
 
-I'm a first-year **Computer Science and Engineering student** interested in **Data Science, quantitative analysis, software engineering, and applied AI**.
+I'm a first-year Computer Science and Engineering student who enjoys building practical software and exploring **machine learning, quantitative systems, developer tools, and applied AI**.
 
-I enjoy building practical software, working with data, and exploring how systems can be made more reliable and intelligent.
+I like working on projects where I can go beyond tutorials and actually build, experiment, benchmark, and solve problems.
 
 ## What I Work With
 
-- **Programming:** Python, HTML,CSS&JS
-- **Data & Analysis:** Pandas, NumPy, data preprocessing, exploratory data analysis, time-series data
-- **Application Development:** PyQt6, Flask,FastAPI REST APIs
-- **Software Engineering:** Git, GitHub, multiprocessing, asynchronous programming, API integration
+- **Languages:** Python, Rust, C++, JavaScript, HTML, CSS
+- **Data & ML:** NumPy, Pandas, XGBoost, time-series analysis, data preprocessing
+- **Backend & Apps:** Flask, FastAPI, PyQt6, REST APIs
+- **Systems & Tools:** Git, GitHub, multiprocessing, asynchronous programming, API integration
+- **Other:** Quantitative analysis, algorithmic trading, software testing, developer tooling
 
-## Featured Projects
+## Selected Projects
 
 ### NiftySprint
-**Python · PyQt6 · Pandas · NumPy · Flattrade API**
+**Python · PyQt6 · Pandas · NumPy · Trading APIs**
 
-A semi-automated quantitative trading application for NIFTY index options.
-
-- Processes live market data and 1-minute OHLC candles
-- Uses price-action and option-chain open-interest analysis for breakout signals
-- Implements multi-stage profit targets, trailing stop-losses, anti-whipsaw logic, and position flipping
-- Uses a separate trading backend and PyQt6 desktop interface
-- Continuously maintained and improved based on real-world use
-
-[View Repository](https://github.com/Anirudh-12/NiftySprint)
+A semi-automated NIFTY options trading application with configurable strategies, parameters, automated execution, and risk management.
 
 ### pysrt-rs
 **Rust · Open Source**
 
-A Rust port of the Python `pysrt` subtitle-processing library.
+A Rust port of the Python `pysrt` subtitle-processing library, focused on performance and memory safety.
 
-I developed the project independently for the **Port Mortem hackathon**, despite it being a team-oriented competition.
+Developed independently for the **Port Mortem hackathon**, where it ranked **38th out of 148 submissions**.
 
-**Ranked 38th among 148 submissions.**
+### HackForge
+**HTML · CSS · JavaScript**
 
-[View Repository](https://github.com/Anirudh-12/pysrt-rs)
+A hackathon-focused platform designed to help developers discover, organize, and work with hackathon opportunities and resources.
 
-### Intelligent Regression Test Selection
-**Python · BugsInPy · Machine Learning**
+### Zero-Dependency
+**Python**
 
-Research work exploring data-driven regression test selection and prioritization for Python projects.
+A zero-runtime-dependency Python tool for investigating and analyzing project dependency graphs using the standard library.
 
-The goal is to identify which tests are most valuable to execute after code changes while reducing unnecessary test execution.
+### TEST_PRIORITY
+**Python · Machine Learning · Software Testing**
 
-I'm exploring signals such as:
-
-- Code changes
-- Test behavior
-- Historical failures
-- Test execution cost
-- Regression outcomes
+A research project exploring **language-agnostic machine learning approaches for test case prioritization**.
 
 ## Currently Exploring
 
-- Data Science and Machine Learning
-- Time-Series Analysis
-- Quantitative Data Analysis
-- Intelligent Software Testing
+- Machine Learning & Data Science
+- Quantitative Analysis & Algorithmic Trading
+- Software Testing & Intelligent Developer Tools
+- Systems Programming with Rust
 - Applied AI
-- Open Source Software
 
-## GitHub
+## Philosophy
 
-Most of my work is available here:
+> Build things. Break things. Measure things. Learn why they work.
 
-[github.com/Anirudh-12](https://github.com/Anirudh-12)
-```
+Most of my projects start with a problem I'm curious about rather than a predefined technology stack.
 
-<!---
-Anirudh-12/Anirudh-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Connect
+
+- GitHub: [Anirudh-12](https://github.com/Anirudh-12)
